@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hello ! I am Gabriel Santos! 👋🏽
+-------
 
-<!--
-**Gabr1elGS/Gabr1elGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](in/gabriel-guilherme-467587278)
+[![Gmail](   https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabriel.guilherme.santos@mail.usf.edu.br)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Gabr1elGS GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabr1elGS&show_icons=true&theme=transparent)
+
+### Technology in practice and studying.
+--------------------------------
+<div style="display: inline_block"><br/>
+    <img align= "center" alt= "python" src= "https://static-00.iconduck.com/assets.00/python-icon-256x256-9529fzj3.png"width="40px"/>
+    <img align= "center" alt= "html5" src= "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"width="40px"/>
+    <img align= "center" alt= "css3" src= "https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40"/>
+    <img align= "center" alt= "vscode" src= "    https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="40"/>
+</div>
+
+---
+
+- 🖥️ Student in Systems Analysis and Development.
+- 💪🏽 Evolve and always learn, we can be better .
+
