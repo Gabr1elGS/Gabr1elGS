@@ -1,8 +1,8 @@
 ### Hello ! I am Gabriel Santos! 👋🏽
 -------
 
-[![linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](in/gabriel-guilherme-467587278)
-[![Gmail](   https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabriel.guilherme.santos@mail.usf.edu.br)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](in/gabriel-guilherme-467587278)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabriel.guilherme.santos@mail.usf.edu.br)
 
 
 ![Gabr1elGS GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabr1elGS&show_icons=true&theme=transparent)
