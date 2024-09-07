@@ -2,7 +2,7 @@
 -------
 
 <div>
-  <a href="https:linkedin.com/in/gabriel-guilherme-467587278" style="display: inline-block; margin-right: 10px;">
+  <a href="linkedin.com/in/gabriel-guilherme-467587278" style="display: inline-block; margin-right: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a> 
   <a href="mailto:gabrielguilhermesantos18@gmail.com" style="display: inline-block;">
