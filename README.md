@@ -4,9 +4,9 @@
 [![linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-guilherme-467587278/)
 [![Gmail](   https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielguilhermesantos18@gmail.com)
 
+![Gabriel Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabr1elGS&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabr1elGS&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Technology in practice and studying.
 --------------------------------
 <div style="display: inline_block"><br/>
